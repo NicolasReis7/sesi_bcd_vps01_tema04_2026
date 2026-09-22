@@ -67,4 +67,4 @@ CREATE TABLE Peca_da_Manutencao (
     quantidade INT NOT NULL,
 
     FOREIGN KEY (id_peca) REFERENCES Peca(id)
-);
+);      
