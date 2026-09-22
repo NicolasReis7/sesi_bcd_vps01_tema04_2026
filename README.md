@@ -4,7 +4,8 @@ Projeto de banco de dados para controle de **manutenção de equipamentos**.
 
 ## Arquivos
 
-* **MER DER CONCEITUAL.png** → Modelo conceitual do banco de dados.
+* **MER DER CONCEITUAL.png**
+* <img src="MER DER CONCEITUAL.PNG"> → Modelo conceitual do banco de dados.
 * **equipamento.csv** → Dados dos equipamentos.
 * **Manutenção.csv** → Dados das manutenções.
 * **Ordem de Manutenção.csv** → Dados das ordens de manutenção.
